@@ -59,17 +59,6 @@ The system provides:
 
 ---
 
-## ⚡ Quick Start
-
-```bash
-git clone https://github.com/Hashem404/yazilimLab03.git
-cd yazilimLab03
-pip install -r requirements.txt
-python main.py
-```
-
----
-
 ## 📂 Project Structure
 
 ```text
