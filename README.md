@@ -33,6 +33,10 @@ This project helps universities manage exams, classrooms, departments, and repor
 
 ---
 
+<img src="screenshots/dashboard.png" width="700">
+
+---
+
 <img src="screenshots/fakulte.png" width="700">
 
 ---
