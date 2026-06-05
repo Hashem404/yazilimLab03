@@ -29,18 +29,18 @@ The system provides:
 
 ## 🚀 Features
 
-* 👥 Role-Based Authentication System
-* 🤖 Automatic Exam Scheduling Algorithm
-* 🏢 Faculty & Classroom Management
-* 📚 Course & Department Management
-* 👨‍🏫 Instructor Management
-* 👨‍🎓 Student Management
-* 📅 Smart Conflict Detection
-* 📊 Excel Export Support
-* 🔒 Secure Login System
-* 🖥️ Modern Tkinter GUI
-* 🧠 Capacity & Availability Control
-* ⚡ Fast Desktop Performance
+*  Role-Based Authentication System
+*  Automatic Exam Scheduling Algorithm
+*  Faculty & Classroom Management
+*  Course & Department Management
+*  Instructor Management
+*  Student Management
+*  Smart Conflict Detection
+*  Excel Export Support
+*  Secure Login System
+*  Modern Tkinter GUI
+*  Capacity & Availability Control
+*  Fast Desktop Performance
 
 ---
 
