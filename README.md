@@ -6,22 +6,24 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 ![License](https://img.shields.io/badge/License-Educational%20Use-green.svg)
 
-> Python & Tkinter tabanlı üniversite sınav planlama ve yönetim sistemi.
+> A desktop-based exam scheduling and management system developed using Python.
+> This project helps universities manage exams, classrooms, departments, and reports efficiently.
 
 ---
 
 ## 🌟 About The Project
 
-Bu proje, üniversitelerde sınav süreçlerini daha hızlı, düzenli ve hatasız yönetmek amacıyla geliştirilmiş masaüstü uygulamasıdır.
+This project was developed to simplify and automate university exam management processes.
 
-Sistem:
+The system provides:
 
-* Sınav planlarını otomatik oluşturur
-* Çakışmaları engeller
-* Öğrenci, hoca ve bölüm yönetimini sağlar
-* Excel formatında rapor üretir
-* Derslik kapasite kontrolü yapar
-* Çoklu kullanıcı rol sistemi sunar
+* Automatic exam scheduling
+* Smart conflict detection
+* Faculty and classroom management
+* Student and instructor management
+* Excel report exporting
+* Role-based authorization system
+* Fast and modern desktop interface
 
 ---
 
@@ -106,12 +108,12 @@ python main.py
 
 ## 🔐 Demo Accounts
 
-| Role            | Username     | Password |
-| --------------- | ------------ | -------- |
-| Admin           | admin        | admin123 |
-| Bölüm Yetkilisi | fatma.celik  | 123456   |
-| Hoca            | ahmet.yilmaz | 123456   |
-| Öğrenci         | ogrenci.bm1  | 123456   |
+| Role               | Username     | Password |
+| ------------------ | ------------ | -------- |
+| Admin              | admin        | admin123 |
+| Department Manager | fatma.celik  | 123456   |
+| Instructor         | ahmet.yilmaz | 123456   |
+| Student            | ogrenci.bm1  | 123456   |
 
 ---
 
@@ -124,19 +126,19 @@ python main.py
 * Global scheduling controls
 * Database management
 
-### 🏢 Bölüm Yetkilisi
+### 🏢 Department Manager
 
 * Department exam management
 * Course scheduling
 * Classroom assignments
 
-### 👨‍🏫 Hoca
+### 👨‍🏫 Instructor
 
 * Manage own exam schedules
 * View assigned classrooms
 * Track exam details
 
-### 👨‍🎓 Öğrenci
+### 👨‍🎓 Student
 
 * View exam timetable
 * Access exam information
